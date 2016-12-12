@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 –*-
 
 import os
-from pyspark.mlllib.recommendation import ALS
+from pyspark.mllib.recommendation import ALS
 
 import logging
 logging.basicConfig(level=logging.INFO)
