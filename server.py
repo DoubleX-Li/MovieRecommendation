@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 –*-
 
-import time, sys, cheerypy, os
+import time, sys, cherrypy, os
 from paste.translogger import TransLogger
 from app import create_app
 from pyspark import SparkContext, SparkConf
