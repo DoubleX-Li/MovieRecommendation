@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 –*-
+
 import time, sys, cheerypy, os
 from paste.translogger import TransLogger
 from app import create_app
